@@ -1,0 +1,5 @@
+{"timestamp":"2026-06-04T18:10:50.641Z","type":"session_meta","payload":{"id":"abc123","cwd":"/tmp/proj","cli_version":"0.1.0"}}
+{"timestamp":"2026-06-04T18:10:55.692Z","type":"response_item","payload":{"type":"message","role":"user","content":[{"type":"input_text","text":"hello codex"}]}}
+{"timestamp":"2026-06-04T18:10:56.000Z","type":"event_msg","payload":{"type":"task_started"}}
+{"timestamp":"2026-06-04T18:10:57.000Z","type":"response_item","payload":{"type":"message","role":"assistant","content":[{"type":"output_text","text":"hi from codex"}]}}
+{"timestamp":"2026-06-04T18:10:58.000Z","type":"response_item","payload":{"type":"message","role":"developer","content":[{"type":"input_text","text":"system noise to skip"}]}}
